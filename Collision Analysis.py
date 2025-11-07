@@ -6,7 +6,7 @@ import numpy as np
 import calendar
 from scipy.stats import pearsonr
 
-
+#Clean data
 df =pd.read_csv(r"C:\Users\tinat\Desktop\Traffic_Collisions_Open_Data_3719442797094142699.csv")
 #print(df.head()) #check data
 
@@ -117,6 +117,7 @@ plt.legend()
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
 plt.show()
+
 
 
 
