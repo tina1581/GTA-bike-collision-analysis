@@ -22,8 +22,8 @@ The goal: Identify collision paterns across time, geography, weather, and season
 - Exploration analysis: trend visualizations, heatmap, linear regression model, statistical analysis
 - Libraries including: pandas numpy  matplotlib seaborn
   
-## 🔗 Live Dashboard
-View the interactive Power BI dashboard:
+## 🔗 Power BI Dashboard
+<img width="1145" height="725" alt="image" src="https://github.com/user-attachments/assets/4a1cbedc-96a5-40bf-ad32-358e8d9f1126" />
 
 ## 📊 Dashboard Overview
 The Dashboard report includes:
