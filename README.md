@@ -1,4 +1,4 @@
-# 🚴‍♂️ Toronto Bike Collision Analysis (2019–2024)
+# Toronto Bike Collision Analysis (2019–2024)
 This project analyzes bike collisions in Toronto from 2019 to 2024.
 The goal: Identify collision paterns across time, geography, weather, and seasonality to better understand factors that contributes to cyclist accidents. 
 
@@ -9,12 +9,12 @@ The goal: Identify collision paterns across time, geography, weather, and season
 - Weather impact
 - Geographic collision hotspots
   
-### 🛠 Tools Used
+### Tools Used
 - Python
 - Power BI
 - DAX
 
-## 🐍 Data Processing
+## Data Processing
 - Importing and cleaning raw collision and weather data  
 - Handling missing and duplicated values
 - Generating date features (year, month, weekday, hour)  
@@ -22,10 +22,10 @@ The goal: Identify collision paterns across time, geography, weather, and season
 - Exploration analysis: trend visualizations, heatmap, linear regression model, statistical analysis
 - Libraries including: pandas numpy  matplotlib seaborn
   
-## 🔗 Power BI Dashboard
+## Power BI Dashboard
 <img width="1145" height="725" alt="image" src="https://github.com/user-attachments/assets/4a1cbedc-96a5-40bf-ad32-358e8d9f1126" />
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 The Dashboard report includes:
 - **KPI Summary**
   - Annual average collisions
@@ -38,7 +38,7 @@ The Dashboard report includes:
   - Seasonal collision trends  
   - Weather vs collision patterns  
 
-## 🔑 Key Insights
+## Key Insights
 - Accidents significantly increased when comparing 2019–2024. This may be due to the pandemic, which decreased the number of cyclists during the lockdown.  
 - From 2019 to 2024, bike accidents peak between 3 PM and 7 PM, likely due to rush hour traffic. 
 - Accidents decrease from September to December and increase from April to August, reflecting higher cycling activity during warmer months.
